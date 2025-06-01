@@ -3,7 +3,7 @@
 Includes:
 - When does multicollinearity occur?
 - When is multicollinearity bad?
-- Perfect multicollinearity
+- Perfect multicollinearity 
 - Mathematics behind multicollinearity
 - Types of multicollinearity
   - Structural multicollinearity
